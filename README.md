@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi 👋, I'm Ashisha
 
-<!--
-**ashisha-s/ashisha-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 MCA Student | Aspiring Software Developer  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+- 🎓 Pursuing **Master of Computer Applications (MCA)**
+
+
+---
+
+## 🛠️ Technical Skills
+
+### 💡 Programming & Development
+- C / C++
+- MySQL
+- React
+- Node
+- js
+- css
+- html
+- Java
+- Python (Basics)
+
+---
+
+## 🤝 Let's Connect
+- 💼 LinkedIn: *www.linkedin.com/in/ashisha-s*
+- 📧 Email: *ashisha.s2025@gmail.com*
+
+---
+
+⭐ *“Learning one step at a time.”*
