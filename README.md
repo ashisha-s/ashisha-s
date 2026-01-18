@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=6FA4FC&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ashisha;MCA+Student;Aspiring+Software+Developer" />
-</p>
+# Hi 👋, I'm Ashisha S
 
 ---
 
