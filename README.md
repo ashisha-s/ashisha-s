@@ -11,10 +11,6 @@
 - 💻 Interested in software development and continuous learning
 
 ---
-<!--
-[![Ashisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashisha-s&show_icons=true&theme=radical)
-](https://github.com/anuraghazra/github-readme-stats)
--->
 
 ## 🛠️ Technical Skills
 
