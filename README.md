@@ -1,43 +1,105 @@
-# Hi 👋, I'm Ashisha S
+# Hey there, I'm Ashisha S! 👋
 
----
+<div align="center">
 
-### 🌱 MCA Student | Aspiring Software Developer
+### Software Developer | MCA Student | Machine Learning Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer;Python+%26+Django+Developer;Exploring+Machine+Learning;Building+Projects+That+Matter;Always+Learning+Something+New" alt="Typing SVG" />
+
+<br/>
+
+*Turning ideas into code, one project at a time.*
+
+<a href="https://www.linkedin.com/in/ashisha-s">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:ashisha.s2025@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
 ## 👩‍💻 About Me
-- 🎓 Pursuing **Master of Computer Applications (MCA)**
-- 💻 Interested in software development and continuous learning
+
+I'm a **Master of Computer Applications (MCA)** student passionate about software development, problem-solving, and building practical applications.
+
+I enjoy exploring how different technologies work together to create meaningful solutions. My experience includes full-stack web development, machine learning, database management, and collaborative software development.
+
+- 🎓 Pursuing MCA at **Mar Athanasius College of Engineering**
+- 💼 Former **AI & ML Intern at Elixir Softwares**
+- 🔭 Working on machine learning and application development projects
+- 🌱 Expanding my knowledge of full-stack development and modern technologies
+- 🤝 Interested in collaborative projects and open-source contributions
+- 🎯 Goal: To grow as a skilled software developer and contribute to impactful products
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-### 💻 Programming & Development
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Languages
 
-### 🌐 Web & Backend
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js&theme=dark" />
+</p>
 
-### 🗄️ Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap&theme=dark" />
+</p>
+
+### Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,nodejs&theme=dark" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" />
+</p>
+
+### Machine Learning & Data Science
+
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,flutter&theme=dark" />
+</p>
+
+**Other technologies:** REST APIs · Data Preprocessing · Feature Engineering · Machine Learning Model Evaluation · Git Collaboration
 
 ---
 
-## 🤝 Let’s Connect
-- 💼 LinkedIn: [ashisha-s](https://www.linkedin.com/in/ashisha-s)
-- 📧 Email: **ashisha.s2025@gmail.com**
+
+
+
+## 🤝 Let's Connect
+
+I'm always interested in learning, collaborating, and exploring new opportunities in software development.
+
+<p>
+<a href="https://www.linkedin.com/in/ashisha-s">
+<img src="https://img.shields.io/badge/LinkedIn-ashisha--s-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:ashisha.s2025@gmail.com">
+<img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
 
 ---
 
-⭐ *Learning one step at a time.*
+<div align="center">
+
+### ✨ Keep Learning. Keep Building. Keep Growing.
+</div>
